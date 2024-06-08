@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: #FAFAFA;
+
+}
+.large-text{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+::-webkit-scrollbar{
+    width: 8px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #F44335;
+}
